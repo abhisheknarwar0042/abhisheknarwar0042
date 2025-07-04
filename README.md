@@ -1,23 +1,19 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+👋;+I'm+Abhishek+Narwar.;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</p>
+
 🌟 ABHISHEK NARWAR
 
-🎓 **B.Tech CSE | 2nd Year | GLA University**  
-🚀 Learning Python, DSA, SQL, Django, and Machine Learning  
-🧠 Focused on progress, not perfection
+🎓 B.Tech CSE | 2nd Year Student at GLA University**
+💡 Specialization: AI, ML, and IoT**
 
 
 
-🛠️ Current Skills (Basic Level)
+🛠️ My Skills (Learning Stage)
 
-- Python | DSA (LeetCode, GFG)  
-- SQL | Django | ML (Scikit-learn, Pandas,numpy,matplotlib,seaborn)
-
-
-
-🎯 Practice Goals
-
-- Understand core Python & logic  
-- Build ML & Django mini-projects  
-- Solve DSA daily  
-- Use SQL confidently
-
+🐍 Python (Basic)
+🧩 Data Structures & Algorithms using Python
+🤖 Machine Learning (Basic Level)
+🗄️ SQL (Data storage & queries)
+🌐 Django (Web Development)
 
