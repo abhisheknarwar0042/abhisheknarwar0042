@@ -11,9 +11,9 @@
 
 🛠️ My Skills (Learning Stage)
 
-🐍 Python (Basic)
+🐍 Python 
 🧩 Data Structures & Algorithms using Python
-🤖 Machine Learning (Basic Level)
-🗄️ SQL (Data storage & queries)
-🌐 Django (Web Development)
+🤖 Machine Learning 
+🗄️ SQL 
+🌐 Django
 
