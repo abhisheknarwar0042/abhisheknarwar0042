@@ -1,4 +1,4 @@
-🌟 Abhishek Narwar
+🌟 ABHISHEK NARWAR
 
 🎓 **B.Tech CSE | 2nd Year | GLA University**  
 🚀 Learning Python, DSA, SQL, Django, and Machine Learning  
