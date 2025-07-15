@@ -11,7 +11,7 @@
 - 📊 Currently exploring **ML models**, **Data Science**, and solving real-world problems  
 - 📫 Let's connect: [abhisheknarwar576@gmail.com](mailto:abhisheknarwar576@gmail.com)
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -21,7 +21,7 @@
 - 🧰 Visual Studio Code  
 - 🔍 Still learning... one bug at a time 😅
 
----
+
 
 ## 📈 GitHub Stats
 
@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheknarwar0042&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
+
 
 ## 🎬 Just for Fun 😜
 
@@ -44,6 +44,6 @@
   Me: *Pretending like I knew it all along.* 😎🐒
 </em></p>
 
----
+
 
 <p align="center"><strong>⭐ If you smiled once, star a repo! Support this coding monkey! 🐵</strong></p>
