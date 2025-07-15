@@ -4,34 +4,41 @@
   <em>“More practice, more efficient.”</em>
 </p>
 
-🙋‍♂️ About Me
+---
 
-🎓 I'm a Student at **GLA University**, Mathura, Uttar Pradesh  
-💻 I love working with **Python** and exploring **Machine Learning** & **AI**  
-🌱 Currently learning more about **ML models** and **Data Science**  
-📬 How to reach me: [abhisheknarwar576@gmail.com](mailto:abhisheknarwar576@gmail.com)
+## 🙋‍♂️ About Me
 
+- 🎓 I'm a student at **GLA University**, Mathura, Uttar Pradesh  
+- 💻 I love working with **Python** and exploring **Machine Learning** & **Artificial Intelligence**  
+- 🌱 Currently learning about **ML models**, **Data Science**, and real-world project development  
+- 📫 How to reach me: [abhisheknarwar576@gmail.com](mailto:abhisheknarwar576@gmail.com)
 
+---
 
-### 🔧 Tech Stack
+## 🔧 Tech Stack
 
-- 🐍 Python
-- 🧠 Machine Learning, Artificial Intelligence
-- 📓 Jupyter Notebook
-- 🧰 VS Code
+- 🐍 Python  
+- 🧠 Machine Learning & AI  
+- 📓 Jupyter Notebook  
+- 🧰 Visual Studio Code  
 
+---
 
-📈 GitHub Stats
+## 📈 GitHub Stats
 
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhisheknarwar0042&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheknarwar0042&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhisheknarwar0042&show_icons=true&theme=radical" alt="Abhishek's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheknarwar0042&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-me=abhisheknarwar0042&theme=radical)](https://github.com/abhisheknarwar0042)
+---
 
+## 🎬 Just for Fun
 
-🎬 Just for Fun
+<p align="center">
+  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" alt="Monkey Fun GIF" width="300"/>
+</p>
+---
 
-![Typing Fast](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-
-
-<p align="center">⭐ Show some love by starring some repositories!</p>
+<p align="center"><strong>⭐ Show some love by starring a few repositories!</strong></p>
