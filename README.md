@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Abhishek Narwar Singh Jat</h1>
+<h1 align="center">Hey there! 👋 I'm Abhishek Narwar </h1>
 
 <p align="center"><em>🧠 The more you practice, the more efficient you become.</em></p>
 
