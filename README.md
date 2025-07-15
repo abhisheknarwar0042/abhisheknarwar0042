@@ -1,50 +1,49 @@
-<h1 align="center">Hi there, I'm Abhishek Narwar! 👋</h1>
+<h1 align="center">Hey there! 👋 I'm Abhishek Narwar Singh Jat</h1>
 
-<p align="center">
-  <em>“🧠 The more you practice, the more efficient you become.”</em>
-</p>
+<p align="center"><em>🧠 The more you practice, the more efficient you become.</em></p>
 
+---
 
-🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 
-🎓 I'm a student at **GLA University**, Mathura, Uttar Pradesh  
-💻 I love working with **Python** and exploring **Machine Learning** & **Artificial Intelligence**  
-🌱 Currently learning about **ML models**, **Data Science**, and real-world project development  
-📫 How to reach me: [abhisheknarwar576@gmail.com](mailto:abhisheknarwar576@gmail.com)
+- 🎓 B.Tech CSE (AI, ML & IoT) student at **GLA University**, Mathura  
+- 💻 Passionate about **Python**,**DSA**, **Machine Learning**, and building cool stuff with code  
+- 📊 Currently exploring **ML models**, **Data Science**, and solving real-world problems  
+- 📫 Let's connect: [abhisheknarwar576@gmail.com](mailto:abhisheknarwar576@gmail.com)
 
+---
 
-🔧 Tech Stack
+## 🛠️ Tech Stack
 
-🐍 Python  
-🧠 Machine Learning & AI  
-📓 Jupyter Notebook  
-🧰 Visual Studio Code  
+- 🐍 Python  
+- 🤖 Machine Learning & AI  
+- 📓 Jupyter Notebook  
+- 🧰 VS Code  
+- 🔍 Still learning... one bug at a time 😅
 
+---
 
-
-📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhisheknarwar0042&show_icons=true&theme=radical" alt="Abhishek's GitHub Stats" />
-  <br>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheknarwar0042&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-
-
-## 🎬 Just for Fun
+---
 
 ## 🎬 Just for Fun 😜
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" alt="Funny Monkey" width="300"/>
+  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" alt="Monkey Coding Chill" width="300"/>
 </p>
 
 <p align="center"><em>
-  When the code runs without errors on the first try... <br>
-  Me: *Acting cool like I knew it would work all along!* 😎🐒
+  When the code works on the first try... <br>
+  Me: *Pretending like I knew it all along.* 😎🐒
 </em></p>
 
+---
 
-
-<p align="center"><strong>⭐ Show some love by starring a few repositories!</strong></p>
+<p align="center"><strong>⭐ If you smiled once, star a repo! Support this coding monkey! 🐵</strong></p>
