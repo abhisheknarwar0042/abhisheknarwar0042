@@ -1,13 +1,13 @@
-<h1 align="center">Hey there! 👋 I'm Abhishek Narwar </h1>
+<h1 align="center">Hey there! 👋 I'm Abhishek Narwar</h1>
 
-<p align="center"><em>🧠 The more you practice, the more efficient you become.</em></p>
+<p align="center"><em>🧠 &nbsp; The more you practice, the more efficient you become.</em></p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
 - 🎓 B.Tech CSE (AI, ML & IoT) student at **GLA University**, Mathura  
-- 💻 Passionate about **Python**,**DSA**, **Machine Learning**, and building cool stuff with code  
+- 💻 Passionate about **Python**, **DSA**, **Machine Learning**, and building cool stuff with code  
 - 📊 Currently exploring **ML models**, **Data Science**, and solving real-world problems  
 - 📫 Let's connect: [abhisheknarwar576@gmail.com](mailto:abhisheknarwar576@gmail.com)
 
@@ -18,7 +18,7 @@
 - 🐍 Python  
 - 🤖 Machine Learning & AI  
 - 📓 Jupyter Notebook  
-- 🧰 VS Code  
+- 🧰 Visual Studio Code  
 - 🔍 Still learning... one bug at a time 😅
 
 ---
